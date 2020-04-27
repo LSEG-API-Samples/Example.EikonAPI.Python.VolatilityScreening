@@ -6,7 +6,9 @@ Harness Refinitiv APIs to identify stocks matching volatiltiy criteria -relative
 • View Market Volatility Trends
 
 • Screen Against Volatility Criteria
+
 • Analyze Target Company Volatilty Profiles
+
 Supporting Apps: Eikon / Refinitiv Workspace
 
 • BIGV - Volatility Indices Guide
