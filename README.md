@@ -1,5 +1,5 @@
 # Example.EikonAPI.Python.Volatility_Screening
-Harness Refinitiv APIs to identify stocks matching volatiltiy criteria -relative to market- to meet target risk profile.  
+
 Volatility Screening
 Harness Refinitiv APIs to identify stocks matching volatiltiy criteria -relative to market- to meet target risk profile.
 
@@ -11,7 +11,7 @@ Harness Refinitiv APIs to identify stocks matching volatiltiy criteria -relative
 
 
 
-Supporting Apps: Eikon / Refinitiv Workspace
+Supporting Apps: Eikon / Refinitiv Workspace:
 
 • BIGV - Volatility Indices Guide
 
