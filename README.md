@@ -2,11 +2,11 @@
 
 Harness Refinitiv APIs to identify stocks matching volatiltiy criteria -relative to market- to meet target risk profile.
 
-• View Market Volatility Trends
+1) View Market Volatility Trends
 
-• Screen Against Volatility Criteria
+2) Screen Against Volatility Criteria
 
-• Analyze Target Company Volatilty Profiles
+3) Analyze Target Company Volatilty Profiles
 
 
 
