@@ -10,6 +10,7 @@ Harness Refinitiv APIs to identify stocks matching volatiltiy criteria -relative
 
 
 
+
 Supporting Apps: Eikon / Refinitiv Workspace:
 
 • BIGV - Volatility Indices Guide
