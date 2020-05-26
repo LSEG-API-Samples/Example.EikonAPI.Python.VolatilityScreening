@@ -1,6 +1,7 @@
 # Example.EikonAPI.Python.Volatility_Screening
 
 Harness Refinitiv APIs to identify stocks matching volatiltiy criteria -relative to market- to meet target risk profile.
+This example showcases the Eikon Data API (DAPI). 
 
 1) View Market Volatility Trends
 
@@ -24,3 +25,7 @@ Supporting Apps: Eikon / Refinitiv Workspace:
 • META - Key Information about a RIC
 
 • DEVCOMM - Refintiiv Developer Community (Documentation and Support)
+
+Pre-requisites:
+
+Thomson Reuters Eikon or Refinitiv Workspace.
