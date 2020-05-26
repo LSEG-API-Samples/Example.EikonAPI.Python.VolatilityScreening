@@ -1,4 +1,4 @@
-# Example.EikonAPI.Python.Volatility_Screening
+# Example.EikonAPI.Python.VolatilityScreening
 
 Harness Refinitiv APIs to identify stocks matching volatiltiy criteria -relative to market- to meet target risk profile.
 This example showcases the [Eikon Data API (DAPI)](https://developers.refinitiv.com/eikon-data-apis). 
