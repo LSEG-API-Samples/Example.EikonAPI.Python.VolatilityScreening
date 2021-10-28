@@ -28,4 +28,4 @@ Supporting Apps: Eikon / Refinitiv Workspace:
 
 Pre-requisites:
 
-Thomson Reuters Eikon or Refinitiv Workspace.
+Refinitiv Workspace
